@@ -1,0 +1,4 @@
+#define IDI_ICON 101
+#define IDI_BITMAP1 102
+#define IDI_BITMAP2 103
+#define IDI_BITMAP3 104

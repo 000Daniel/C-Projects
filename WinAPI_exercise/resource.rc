@@ -1,0 +1,5 @@
+#include "resource.h"
+IDI_ICON ICON "Assets\\Untitled.ico"
+IDI_BITMAP1 BITMAP "Assets\\Button1.bmp"
+IDI_BITMAP2 BITMAP "Assets\\Button2.bmp"
+IDI_BITMAP3 BITMAP "Assets\\Button3.bmp"
