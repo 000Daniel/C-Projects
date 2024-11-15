@@ -1,7 +1,7 @@
 ## Introduction
-Get It is a simple to-do list program written entirely in the C program language. <br>
+Get It is a simple to-do list software written entirely in the C program language. <br>
 It has the neat feature of working like a pop-up, where it is displayed above other programs. <br>
-This helps the users keep track of their tasks while working with a different program. <br>
+This helps the user keep track of their tasks while working with a different program. <br>
 <br>
 This project was an exercise to learn more about the Win32 API. <br>
 Unlike my previous [WinAPI exercise project](https://github.com/000Daniel/C-Projects/tree/main/WinAPI_exercise), this software is complete and ready for everyday use! <br>
@@ -9,7 +9,7 @@ Unlike my previous [WinAPI exercise project](https://github.com/000Daniel/C-Proj
 ### Software Architecture
 `GetIt.C` begins the program and has the main procedure function. <br>
 From there it calls `Elements.C` to create the titlebar's buttons, <br>
-and it creates the 'hContainer' window that holds the tasks in the todo list. <br>
+and it creates the 'hContainer' window that holds the tasks of the todo list. <br>
 `Elements.C` referes a lot to `Functions.C` to handle the program's logic. <br>
 <br>
 ### Miscellaneous Info
