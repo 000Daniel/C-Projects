@@ -1,0 +1,10 @@
+#include <windows.h>
+#include "resource.h"
+
+IDI_MAINICON ICON "resources/GetIt_Icon_64.ico"
+IDI_ARWDN BITMAP "resources/ArrowDWN.bmp"
+IDI_ARWDN_H BITMAP "resources/ArrowDWN_h.bmp"
+IDI_ARWDN_P BITMAP "resources/ArrowDWN_p.bmp"
+IDI_ARWUP BITMAP "resources/ArrowUP.bmp"
+IDI_ARWUP_H BITMAP "resources/ArrowUP_h.bmp"
+IDI_ARWUP_P BITMAP "resources/ArrowUP_p.bmp"

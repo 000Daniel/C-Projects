@@ -1,0 +1,18 @@
+#define IDI_MAINICON 101
+#define IDI_ARWDN 102
+#define IDI_ARWDN_H 103
+#define IDI_ARWDN_P 104
+#define IDI_ARWUP 105
+#define IDI_ARWUP_H 106
+#define IDI_ARWUP_P 107
+
+#define ID_CONTAINER 200
+
+#define ID_BUTTON1 400
+#define ID_BUTTON2 401
+#define ID_BUTTON3 402
+#define ID_BUTTON4 403
+#define ID_BUTTON5 405
+#define ID_BUTTON6 404
+#define ID_BUTTON_MOVEUP 410
+#define ID_BUTTON_MOVEDOWN 411
